@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "python_repository_simple"
+name = "github_copilot_test"
 version = "0.0.0"
-description = "python_repository_simple"
+description = "github_copilot_test"
 authors = ["yamap55"]
 license = "MIT"
 
